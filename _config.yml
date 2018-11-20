@@ -1,12 +1,12 @@
 title: 幻雪之地
 description: 我的个人博客
-author: John Smith
+author: fish/snowwolfjay/余红杰
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://github.com/snowwolfjay
+about: 一名js爱好者——a js lover
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://snowwolfjay.github.io"
+url: "https://snowwolfjay.github.io"
 
 allowsearch: true
 
