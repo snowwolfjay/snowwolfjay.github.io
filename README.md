@@ -1,6 +1,6 @@
 ## HCZ Material theme
 
-This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
+基于一个jekyll Material 模板的个人博客站点，测试用。
 
 ### Demo
 * [https://codeasashu.github.io/hcz-jekyll-blog](https://codeasashu.github.io/hcz-jekyll-blog/)
