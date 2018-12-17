@@ -3,7 +3,7 @@ description: 我的个人博客
 author: fish/snowwolfjay/余红杰
 logo: /static/img/avatar.png
 github: https://github.com/snowwolfjay
-about: 一名js爱好者——a js lover
+about: 一名JS爱好者和机械工程师(Javascripter&&Mechanical Engineer)
 
 baseurl: "https://snowwolfjay.github.io"
 url: "https://snowwolfjay.github.io"
@@ -11,7 +11,7 @@ url: "https://snowwolfjay.github.io"
 allowsearch: true
 
 disqus_shortname: yuhj
-google_analytics: UA-72862926-1
+# google_analytics: UA-72862926-1
 
 share:
   twitter_username: \#
